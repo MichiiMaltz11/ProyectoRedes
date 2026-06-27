@@ -1,0 +1,10 @@
+2026-06-26T19:34:39.710Z HYPERVISOR: Release 0.2.24-amd64/Linux (tag 2023010200)
+2026-06-26T19:34:39.710Z HYPERVISOR: Started on IP = 127.0.0.1, TCP port = 48343.
+2026-06-26T19:34:39.715Z HYPERVISOR: exec_cmd: hypervisor version 
+2026-06-26T19:34:39.716Z HYPERVISOR: exec_cmd: hypervisor working_dir /home/michii-maltez/GNS3/projects/InterlinkSolutionsConfig/project-files/dynamips 
+2026-06-26T19:34:39.716Z GENERAL: working_dir=/home/michii-maltez/GNS3/projects/InterlinkSolutionsConfig/project-files/dynamips
+2026-06-26T19:34:39.716Z HYPERVISOR: exec_cmd: ethsw create Switch1 
+2026-06-26T22:16:32.765Z HYPERVISOR: exec_cmd: ethsw delete Switch1 
+2026-06-26T22:16:32.774Z HYPERVISOR: exec_cmd: hypervisor stop 
+2026-06-26T22:16:32.869Z HYPERVISOR: Stopped.
+2026-06-26T22:16:32.869Z GENERAL: reset done.

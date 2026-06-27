@@ -1,0 +1,2 @@
+set pcname PCServer
+ip 192.168.50.45 192.168.50.41 29
